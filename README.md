@@ -1,4 +1,4 @@
-
+# Kaggle March Madness 2019 Competition 
 
 ## Overview
 This repo contains my work for the 2019 Kaggle March Madness competition - research, practice Jupyter notebooks, and code creating final model for submission. I entered this competition to learn and practice ML programming, focusing on something that I was interested in - college basketball. I ended up placing in the **top 25%** of all submissions. A link to the competition can be found [here](https://www.kaggle.com/c/mens-machine-learning-competition-2019/overview). 
